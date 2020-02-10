@@ -1,2 +1,2 @@
-# lwjgl-effect
+# catcade
 LWJGL + Cats Effect
